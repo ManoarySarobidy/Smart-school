@@ -1,0 +1,2 @@
+mvnw clean package
+mvnw.cmd spring-boot:run
